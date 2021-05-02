@@ -1,7 +1,7 @@
 url: http://knit.finance
-status: up
-code: 200
-responseTime: 6046
-lastUpdated: 2021-05-02T09:50:16.458Z
+status: down
+code: 502
+responseTime: 9727
+lastUpdated: 2021-05-02T10:47:56.870Z
 startTime: Thu Mar 25 2021 18:25:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -4,7 +4,7 @@
     "url": "http://knit.finance",
     "icon": "https://favicons.githubusercontent.com/knit.finance",
     "slug": "knit-finance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,8 +12,8 @@
     "uptimeYear": "100.00%",
     "time": 963,
     "timeDay": 614,
-    "timeWeek": 687,
-    "timeMonth": 1180,
+    "timeWeek": 676,
+    "timeMonth": 1193,
     "timeYear": 963,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 305,
-    "timeDay": 145,
-    "timeWeek": 421,
-    "timeMonth": 343,
-    "timeYear": 305,
+    "time": 329,
+    "timeDay": 852,
+    "timeWeek": 616,
+    "timeMonth": 392,
+    "timeYear": 329,
     "dailyMinutesDown": {}
   }
 ]

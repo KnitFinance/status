@@ -22,17 +22,17 @@
     "url": "http://app.knit.finance",
     "icon": "https://favicons.githubusercontent.com/app.knit.finance",
     "slug": "knit-swap",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 644,
-    "timeDay": 14590,
-    "timeWeek": 3891,
-    "timeMonth": 1270,
-    "timeYear": 644,
+    "time": 641,
+    "timeDay": 9811,
+    "timeWeek": 3487,
+    "timeMonth": 1240,
+    "timeYear": 641,
     "dailyMinutesDown": {}
   }
 ]
